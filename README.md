@@ -2,7 +2,7 @@
 
 - الجهاز: إشارة مرور ذكية (Smart Traffic Light)
 - رمز المجموعة: TYGY
-- رابط مشروع Wokwi: https://wokwi.com/projects/481856222039527425
+- رابط مشروع https://wokwi.com/projects/481608126880763905
 
 ## أعضاء المجموعة
 
